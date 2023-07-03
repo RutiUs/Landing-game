@@ -83,7 +83,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   min-height: 960px;
-  background-image: url("img/images/header.jpg");
+  background-image: url("../img/images/header.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -311,7 +311,7 @@ body {
 }
 
 .about {
-  background-image: url("img/images/abbout-bg.jpg");
+  background-image: url("../img/images/abbout-bg.jpg");
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
