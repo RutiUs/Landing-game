@@ -2,24 +2,24 @@
 .subscribe__sumbtitle-text, .subscribe__title-text, .opinion__sumbtitle-text, .opinion__title-text, .system__recommendation-graphics, .system__recommendation-td, .system__sumbtitle-text, .system__title-text, .special__sumbtitle-title, .special__title, .about__sumbtitle-title, .about__title-text, .header__sumbtitle-text, .header__title {
   font-family: "Bebas Neue";
   font-weight: 400;
-  src: url("/fonts/AnyConv.com__BebasNeue-Regular.woff");
+  src: url("../fonts/AnyConv.com__BebasNeue-Regular.woff");
 }
 
 .footer__bottom-link, .footer__link-menu, .subscribe__link-btn, .opinion__link-btn, .drop-down__link, .drop-menu__link, .menu__link, .header__bottom-link {
   font-family: "Open Sans";
   font-weight: 700;
-  src: url("/fonts/AnyConv.com__OpenSans-Bold.woff");
+  src: url("../fonts/AnyConv.com__OpenSans-Bold.woff");
 }
 
 @font-face {
   font-family: "Bebas Neue";
   font-weight: 400;
-  src: url("/fonts/AnyConv.com__BebasNeue-Regular.woff");
+  src: url("../fonts/AnyConv.com__BebasNeue-Regular.woff");
 }
 @font-face {
   font-family: "Open Sans";
   font-weight: 400;
-  src: url("/fonts/AnyConv.com__OpenSans-Regular.woff");
+  src: url("../fonts/AnyConv.com__OpenSans-Regular.woff");
 }
 @font-face {
   font-family: "Open Sans";
@@ -83,7 +83,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   min-height: 960px;
-  background-image: url("/img/images/header.jpg");
+  background-image: url("../img/images/header.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
