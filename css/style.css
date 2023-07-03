@@ -311,7 +311,7 @@ body {
 }
 
 .about {
-  background-image: url("/img/images/abbout-bg.jpg");
+  background-image: url("img/images/abbout-bg.jpg");
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -424,7 +424,7 @@ body {
 }
 
 .special {
-  background-image: url("/img/images/specila-bg.jpg");
+  background-image: url("img/images/specila-bg.jpg");
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -488,7 +488,7 @@ summary::-weblit-details-marker {
 }
 
 .system {
-  background-image: url("/img/images/system-bg.jpg");
+  background-image: url("img/images/system-bg.jpg");
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
